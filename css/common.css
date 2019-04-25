@@ -1,0 +1,158 @@
+body {
+	font-size: 16px;
+}
+
+.allimg {
+	width: 100%;
+	height: 100%;
+}
+
+.index-top {
+	background-color: #666666;
+}
+
+.Hui-aside-bac {
+	background: none;
+	/* border-right: 1px solid #000000; */
+}
+
+/* .Hui-aside-con{
+	border-bottom: 1px solid #000000 !important;
+} */
+.page-container-welcome {
+	height: 700px;
+}
+
+.navbar .logo {
+	height: 50px;
+	line-height: 50px;
+}
+
+.navbar-logo {
+	font-size: 20px;
+}
+
+.navbar-nav>ul>li {
+	line-height: 50px;
+	font-size: 16px;
+}
+
+.Hui-aside {
+	top: 50px;
+}
+
+.Hui-article-box {
+	top: 50px;
+}
+
+.Hui-aside .menu_dropdown dt {
+	line-height: 50px;
+}
+
+.Hui-aside .menu_dropdown dd li a {
+	line-height: 47px;
+}
+
+.welcome {
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
+
+.protab {
+	font-size: 14px;
+}
+
+.selfloor {
+	width: 65px;
+}
+
+.protable thead th {
+	background-color: #f5f5f5;
+}
+
+.protable-deline {
+	background-color: #f5f5f5;
+}
+
+.protable-hover tbody tr:hover td {
+	background-color: #DFF0D8;
+}
+
+.protab-icon a {
+	font-size: 20px;
+}
+
+.protab-state {
+	width: 200px;
+}
+
+.protab-iconcolor {
+	color: #1E06F5;
+}
+
+.protab-iconcolora {
+	color: red;
+}
+
+.water-addfloor {
+	width: 100px;
+	padding: 0 5px;
+}
+
+.water-addhome {
+	width: 300px;
+}
+
+.water-addstate {
+	width: 100px;
+	margin-left: 47px;
+	padding: 0 5px;
+}
+
+.allfloortext {
+	position: relative;
+	top: 2px;
+}
+
+.pwd-oldipt {
+	width: 300px;
+	position: relative;
+    left: 15px;
+}
+.pwd-oldipta {
+	width: 300px;
+}
+.pwd-oldiptb {
+	width: 300px;
+	position: relative;
+	left: -15px;
+}
+.star {
+	color: red;
+}
+
+.findpwd-btn {
+	width: 300px;
+}
+.findpwd-btn:hover{
+	background-color: #E74C3C;
+}
+.findpwd-con {
+	text-align: center;
+	font-size: 16px;
+}
+
+.findpwd-ipta {
+	margin-top: 100px
+}
+
+.dataTables_filter{
+	display: none;
+}
+/* .Hui-aside .menu_dropdown dt .Hui-iconfont{
+	color: #666666;
+}
+.Hui-iconfont menu_dropdown-arrow{
+	color: #666666;
+} */
